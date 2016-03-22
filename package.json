@@ -18,5 +18,23 @@
   "bugs": {
     "url": "https://github.com/madeinfree/meep-progress-bar/issues"
   },
-  "homepage": "https://github.com/madeinfree/meep-progress-bar#readme"
+  "homepage": "https://github.com/madeinfree/meep-progress-bar#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.7.2",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.5.2",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-router": "^2.0.1"
+  }
 }
