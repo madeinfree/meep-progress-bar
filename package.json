@@ -1,0 +1,22 @@
+{
+  "name": "meep-progress-bar",
+  "version": "1.0.0",
+  "description": "react progress bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeinfree/meep-progress-bar.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "whien_liou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeinfree/meep-progress-bar/issues"
+  },
+  "homepage": "https://github.com/madeinfree/meep-progress-bar#readme"
+}
